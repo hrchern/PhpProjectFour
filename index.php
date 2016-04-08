@@ -11,6 +11,7 @@
         
         echo "added 1 line";
         
+        echo "added 2nd line";
         ?>
     </body>
 </html>
